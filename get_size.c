@@ -6,6 +6,7 @@
  * @i: List of arguments to be printed.
  *
  * Return: Precision.
+ * nothing else 
  */
 int get_size(const char *format, int *i)
 {
